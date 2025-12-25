@@ -30,8 +30,8 @@ This base serves as a foundation for various fermented vegan cheeses (Camembert,
 ## Tools
 
 * High-speed blender
-* Fermenting heater and towels (for insulation)
-* Glass containers for molding
+* Fermenting heater (yogurt maker, heating pad) and towels (for insulation)
+* Glass containers for molding (Pyrex 1 cup size)
 * Plastic shrink wrap
 * Plastic embroidery canvas (3x3 inch) or parchment paper
 * Aging containers with internal grids (Cheese cave)
