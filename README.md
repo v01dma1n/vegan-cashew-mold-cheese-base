@@ -29,14 +29,14 @@ This base serves as a foundation for various fermented vegan cheeses (Camembert,
 
 ## Tools
 
-* High-speed blender
-* Fermenting heater (yogurt maker, heating pad) and towels (for insulation)
-* Glass containers for molding (Pyrex 1 cup size)
-* Plastic shrink wrap
-* Plastic embroidery canvas (3x3 inch) or parchment paper
-* Aging containers with internal grids (Cheese cave)
-* Cheese cave (refrigerator with adjusted thermostat to hold between 44F (7C) and 53F (12C)
-* Sanitizer/Disinfectant for all surfaces
+* [High-speed blender](#high-speed-blender)
+* [Fermenting heater](#fermenting-heater)
+* [Glass containers for molding](#glass-containers-for-molding)
+* [Plastic shrink wrap](#plastic-shrink-wrap)
+* [Plastic embroidery canvas or parchment paper](#plastic-embroidery-canvas-or-parchment-paper)
+* [Aging containers with internal grids](#aging-containers-with-internal-grids)
+* [Cheese cave](#cheese-cave)
+* [Sanitizer/Disinfectant](#sanitizerdisinfectant)
 
 ---
 
@@ -52,14 +52,13 @@ This base serves as a foundation for various fermented vegan cheeses (Camembert,
 * **Emulsify:** Blend warm cashews with water, coconut oil, salt, miso, and optional fermented tofu until smooth.
 * *Note: Cashews must be warm enough to melt the oil but not so hot they break the emulsion.*
 
-
 * **Inoculate:** Add chosen cultures or flavorings and blend briefly to incorporate.
 
 ### 3. Primary Fermentation
 
 * **Heat:** Place the blender jar with the paste on a fermenting heater; wrap with towels.
 * **Timing:** * **Standard:** 8–24 hours for tang.
-* **Mold-Ripened (Camembert):** 2–4 hours (shorter duration helps prevent black mold).
+    * **Mold-Ripened (Camembert):** 2–4 hours (shorter duration helps prevent black mold).
 
 ### 4. Shaping & Setting
 
@@ -80,3 +79,30 @@ This base serves as a foundation for various fermented vegan cheeses (Camembert,
 * **Mold Growth:** Between Days 10–14, white or blue mold should appear.
 * **Spot Cleaning:** If undesired (black) mold appears, remove the spot and salt the area to prevent regrowth.
 
+---
+
+## Tool Details
+
+### High-speed blender
+Add details about blender requirements, power, and cleaning here.
+
+### Fermenting heater
+Add details about yogurt makers, heating pads, or custom temperature controllers here.
+
+### Glass containers for molding
+Add details about specific container sizes (e.g., Pyrex 1 cup) and shapes here.
+
+### Plastic shrink wrap
+Add details about wrapping techniques or specific brand preferences here.
+
+### Plastic embroidery canvas or parchment paper
+Add details about the 3x3 inch canvas, mesh size, or why airflow is critical here.
+
+### Aging containers with internal grids
+Add details about the plastic bins used for humidity control and how to stack them.
+
+### Cheese cave
+Add details about the refrigerator setup, ESP32 controllers, or specific temperature ranges (44°F - 53°F) here.
+
+### Sanitizer/Disinfectant
+Add details about preferred sanitizing agents (StarSan, etc.) and safety protocols here.
