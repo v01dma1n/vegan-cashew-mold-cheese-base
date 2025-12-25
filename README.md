@@ -2,6 +2,10 @@
 
 This base serves as a foundation for various fermented vegan cheeses (Camembert, Blue, etc.) depending on the inoculation used.
 
+<p align="center">
+  <img src="photos/20210110_133517_cashew_camembert_slice.jpg" alt="Bubble LED Clock" width="500">
+</p>
+
 ---
 
 ## Ingredients
