@@ -1,6 +1,7 @@
 # Vegan Cashew Mold Cheese Base
 
 This base serves as a foundation for various fermented vegan cheeses (Camembert, Blue, etc.) depending on the inoculation used.
+The recipe is based on several [notable sources](#credits) 
 
 <p align="center">
   <img src="photos/20210110_133517_cashew_camembert_slice.jpg" alt="A slice of cashew Camembert" width="500">
@@ -34,7 +35,7 @@ This base serves as a foundation for various fermented vegan cheeses (Camembert,
 * [Glass containers for molding](#glass-containers-for-molding)
 * [Plastic shrink wrap](#plastic-shrink-wrap)
 * [Plastic embroidery canvas or parchment paper](#plastic-embroidery-canvas-or-parchment-paper)
-* [Aging containers with internal grids](#aging-containers-with-internal-grids)
+* [Ripening containers with internal grids](#ripening-containers-with-internal-grids)
 * [Cheese cave](#cheese-cave)
 * [Sanitizer/Disinfectant](#sanitizerdisinfectant)
 
@@ -64,20 +65,33 @@ This base serves as a foundation for various fermented vegan cheeses (Camembert,
 
 * **Homogenize:** Mix the fermented paste to remove any dry surface skin.
 * **Mold:** Transfer to glass containers lined with shrink wrap. Fold edges over.
-* **Set:** Refrigerate for several hours until firm.
+* **Set:** Refrigerate for overnight or at least for several hours until firm.
 
 ### 5. Salting & Initial Aging
 
-* **First Salt:** Unwrap and salt the top surface.
-* **Unmold:** Pull the shrink wrap to remove the wheel; flip onto embroidery canvas/parchment.
+* **Unmold:** Pull the wheels by the shrink wrap out of the glass containers. 
+* **First Salt:** Unwrap the top and salt the surface. flip onto embroidery canvas/parchment.
 * **Second Salt:** Salt the bottom and sides.
-* **Cave:** Place on a grid in a covered container and move to the cheese cave.
+* **Cave:** Place on a grid on container cover and install the bottom upside down. Move to the cheese cave.
 
 ### 6. Ripening
 
-* **Daily Flip:** Flip the cheese at least once a day (Days 5–9).
-* **Mold Growth:** Between Days 10–14, white or blue mold should appear.
+* **Daily Flip:** Flip the cheese at least once a day (Days 5–9). Remove any moisture accumulate on the box. If the wheels show condensation, delicately pat with dry paper towel to remove the water.
+* **Mold Growth:** Between Days 10–14, white (Cammembert) or blue (Roquefort) mold should appear.
 * **Spot Cleaning:** If undesired (black) mold appears, remove the spot and salt the area to prevent regrowth.
+
+### 7. Breaking Roqueford Wheels
+
+Optional: to develop Roquefort 'vains' inside the wheels.
+
+* **Breaking:** For Roquefort, if desired, break the wheels into 5-6 chunks.
+* **Repacking:** Pack the chunks turning mold inside in the same cling wrap and glass containter.
+* **Second mold:** Store the wheels in the cheese cave for several days.  The second mold should appear faster than the first one.
+
+### 8. Wrapping and Refrigeration
+
+* **Cheese Wrapping:** When the mold is developed remove the wheels from the cave and wrap in cheese paper.
+* **Refrigeration:** Store the wheels in a refrigerator. Consume within 2 weeks.
 
 ---
 
@@ -98,7 +112,7 @@ Regular shrink wrap for lining the glass container before filling it up with pas
 ### Plastic embroidery canvas or parchment paper
 The cheese wheels must be ripening on some sort of hard surface so it can be moved and separated easily. The best choice is to use some flexible plastic surface with grid-like texture. My choice is [round plastic embroidery canvas](https://www.google.com/search?q=round+plastic+embroidery+canvas). 
 
-### Aging containers with internal grids
+### Ripening containers with internal grids
 The containers are typical plastic containers, large enough to fit 2-3 wheels with their round embroidery canvas.  The containers are used upside-down and the wheels are placed on the lid so it is easy to remove the wheels. To improve air circulation the wheels rest on pieces of louvered ceiling light panels
 <p align="center">
   <img src="photos/louvered-ceiling-light-panel.png" alt="Lovered Ceiling Light Panel" width="500">
@@ -109,3 +123,7 @@ The containers with wheels are placed in Cheese Cave.  For this purpose a refrig
 
 ### Sanitizer/Disinfectant
 As a desinfectant can be used alcohol or clearvinigear.
+
+---
+
+## Credits
