@@ -107,6 +107,11 @@ The recipe is based on several [notable sources](#credits)
 * **Second Salt:** Salt the bottom and sides.
 * **Cave:** Place on a grid on container cover and install the bottom upside down. Move to the cheese cave.
 
+<p align="center">
+  <img src="photos/06-salted-wheels-on-grid.jpg" alt="Two salted wheels on round embroidery canvas on a plastic grid, on the ripening container lid" width="400"><br>
+  <em>6. Just-salted wheels on embroidery canvas, resting on the grid on the container lid</em>
+</p>
+
 ### 6. Ripening
 
 * **Daily Flip:** Flip the cheese at least once a day (Days 5–9). Remove any moisture accumulate on the box. If the wheels show condensation, delicately pat with dry paper towel to remove the water.
